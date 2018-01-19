@@ -1,0 +1,47 @@
+.nav_menu {
+    background: #B7A1FF !important;
+}    
+.top_nav .nav .open > a, .top_nav .nav .open >
+ a:focus, .top_nav .nav .open > a:hover, .top_nav .nav > 
+li > a:focus, .top_nav .nav > li > a:hover {
+    background: #6E619C !important;
+}
+#logingrid{
+    padding: 5% !important;
+    background-color: #2e68e7e6 !important;
+}
+.left_col {
+    background: #6E619C !important;
+}
+body {
+    color: #010324 !important;
+    }
+.img-circle.profile_img {
+    
+    border: none !important;
+    
+}
+#desklogo{
+	background: #b7a1ff !important;
+}
+a {
+    color: #16005b !important;
+}
+a:focus, a:hover {
+    color: #5A738E !important;
+}
+.nav_title {
+    background: #B7A1FF !important;
+}
+.btn-success, .btn-primary, .btn-info {
+    background: #6E619C !important;
+    border: 1px solid #2F2063 !important;
+}
+.login_content h1::after, .login_content h1::before {
+    
+    
+    width: 0px!important;
+}
+.btn-login{
+	background: #fff !important;
+}
